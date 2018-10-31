@@ -3,7 +3,7 @@
  * @author Stephen Wilks
  */
 
-indow.onload = function() {
+window.onload = function() {
 	init();
 };
 
